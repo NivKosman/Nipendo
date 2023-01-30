@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9apW5uP7sUzSpRxX86ObO52aSNvflVklEzOe0C7qoDkSSCZBFeWUVAKH47TcVRdN/kxjT26Vn30DNFI5SR7mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NivKosman\\Desktop\\Nipendo.Evaluation-init\\dotnet-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NivKosman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
